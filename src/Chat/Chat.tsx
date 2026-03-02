@@ -24,7 +24,7 @@ export function Chat({ viewer }: { viewer: string }) {
   return (
     <>
       <MessageList messages={messages}>
-        {messages?.map((message) => (
+        {messages?.map((message: any) => (
           <Message key={message._id} author={message.author} viewer={viewer}>
             {message.body}
           </Message>
