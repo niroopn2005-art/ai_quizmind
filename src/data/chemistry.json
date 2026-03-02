@@ -1,0 +1,220 @@
+[
+    {
+        "id": 1,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Which of the following is a chemical change?",
+        "options": [
+            "Melting of ice",
+            "Dissolving sugar in water",
+            "Burning of magnesium ribbon",
+            "Cutting of paper"
+        ],
+        "answer": "Burning of magnesium ribbon",
+        "explanation": "Burning magnesium forms a new substance (magnesium oxide). New substance = chemical change. Melting, dissolving, and cutting are physical changes — no new substance is formed.",
+        "difficulty": "hard",
+        "neetYear": "2019"
+    },
+    {
+        "id": 2,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "The reaction 2Mg + O2 → 2MgO is an example of:",
+        "options": [
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Double displacement reaction",
+            "Combination reaction"
+        ],
+        "answer": "Combination reaction",
+        "explanation": "In a combination reaction, two or more substances combine to form ONE new product. Here Mg + O2 join together to form MgO. Think: combine = join together.",
+        "difficulty": "hard",
+        "neetYear": "2020"
+    },
+    {
+        "id": 3,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Which of the following is a decomposition reaction?",
+        "options": [
+            "CaO + H2O → Ca(OH)2",
+            "2H2O → 2H2 + O2",
+            "Fe + CuSO4 → FeSO4 + Cu",
+            "NaCl + AgNO3 → AgCl + NaNO3"
+        ],
+        "answer": "2H2O → 2H2 + O2",
+        "explanation": "Decomposition = ONE substance breaks into TWO or more. Water breaks into hydrogen and oxygen. It’s the opposite of combination. ‘De’ means to break apart.",
+        "difficulty": "medium"
+    },
+    {
+        "id": 4,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Iron reacts with copper sulphate solution. Which type of reaction is this?",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double displacement"
+        ],
+        "answer": "Displacement",
+        "explanation": "Fe + CuSO4 → FeSO4 + Cu. Iron ‘kicks out’ copper because iron is more reactive. More reactive metal always displaces less reactive metal from its solution.",
+        "difficulty": "hard",
+        "neetYear": "2018"
+    },
+    {
+        "id": 5,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "In the reaction: Pb(NO3)2 + 2KI → PbI2↓ + 2KNO3, what type of reaction occurs?",
+        "options": [
+            "Combination reaction",
+            "Displacement reaction",
+            "Double displacement reaction",
+            "Redox reaction"
+        ],
+        "answer": "Double displacement reaction",
+        "explanation": "Both compounds exchange partners — Pb²⁺ goes with I⁻, and K⁺ goes with NO3⁻. It’s like two couples swapping partners! Yellow precipitate of PbI2 forms.",
+        "difficulty": "hard",
+        "neetYear": "2017"
+    },
+    {
+        "id": 6,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Which of the following is an exothermic reaction?",
+        "options": [
+            "Photosynthesis",
+            "Decomposition of CaCO3",
+            "Electrolysis of water",
+            "Burning of coal"
+        ],
+        "answer": "Burning of coal",
+        "explanation": "Exothermic reactions RELEASE heat. Burning coal gives out heat and light. Photosynthesis and electrolysis ABSORB energy — they are endothermic. ‘Exo’ = exit = energy leaves.",
+        "difficulty": "hard",
+        "neetYear": "2021"
+    },
+    {
+        "id": 7,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "What is the role of MnO2 in the reaction: 2H2O2 → 2H2O + O2?",
+        "options": [
+            "Reactant",
+            "Product",
+            "Catalyst",
+            "Oxidizing agent"
+        ],
+        "answer": "Catalyst",
+        "explanation": "MnO2 speeds up the decomposition of hydrogen peroxide but is not consumed. A catalyst increases reaction speed without being used up itself — like a helper that never gets tired.",
+        "difficulty": "medium"
+    },
+    {
+        "id": 8,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "The symbol ‘↓’ in a chemical equation represents:",
+        "options": [
+            "A gas evolved",
+            "A precipitate formed",
+            "Water formed",
+            "Heat released"
+        ],
+        "answer": "A precipitate formed",
+        "explanation": "↓ means an insoluble solid (precipitate) has formed and sinks in the solution. ↑ means a gas has been produced and escapes upward.",
+        "difficulty": "hard",
+        "neetYear": "2016"
+    },
+    {
+        "id": 9,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Rancidity of food is caused by:",
+        "options": [
+            "Reduction of fats",
+            "Oxidation of fats",
+            "Decomposition by heat",
+            "Addition of preservatives"
+        ],
+        "answer": "Oxidation of fats",
+        "explanation": "When fats/oils react with oxygen in air over time, they become rancid — bad smell and taste. To prevent this, we use antioxidants or store food in airtight containers or in nitrogen gas.",
+        "difficulty": "medium"
+    },
+    {
+        "id": 10,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "What happens when AgCl is kept in sunlight?",
+        "options": [
+            "It decomposes to Ag and Cl2",
+            "It combines with oxygen",
+            "It dissolves in water",
+            "No change occurs"
+        ],
+        "answer": "It decomposes to Ag and Cl2",
+        "explanation": "2AgCl → 2Ag + Cl2 (in sunlight). This is photodecomposition — decomposition by light. Silver turns grey. This reaction is used in black-and-white photography.",
+        "difficulty": "hard",
+        "neetYear": "2022"
+    },
+    {
+        "id": 11,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Which of the following is an endothermic process?",
+        "options": [
+            "Burning of LPG",
+            "Respiration",
+            "Photosynthesis",
+            "Neutralisation"
+        ],
+        "answer": "Photosynthesis",
+        "explanation": "Photosynthesis absorbs energy from sunlight to make food. ‘Endo’ means inside — energy goes IN. Burning and respiration release energy — they are exothermic.",
+        "difficulty": "medium"
+    },
+    {
+        "id": 12,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "The law of conservation of mass states:",
+        "options": [
+            "Mass increases during a reaction",
+            "Mass decreases during a reaction",
+            "Total mass of reactants = total mass of products",
+            "Mass of products is always greater"
+        ],
+        "answer": "Total mass of reactants = total mass of products",
+        "explanation": "Matter cannot be created or destroyed in a chemical reaction. The total mass stays the same. This is why we balance chemical equations — to ensure equal atoms on both sides.",
+        "difficulty": "medium"
+    },
+    {
+        "id": 13,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Corrosion of iron is called:",
+        "options": [
+            "Tarnishing",
+            "Rusting",
+            "Rancidity",
+            "Combustion"
+        ],
+        "answer": "Rusting",
+        "explanation": "When iron reacts with oxygen and moisture (water), it forms rust (Fe2O3·xH2O) — a reddish-brown coating. Silver tarnishes, copper turns green, but iron specifically RUSTS.",
+        "difficulty": "hard",
+        "neetYear": "2018"
+    },
+    {
+        "id": 14,
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions and Equations",
+        "question": "Which gas is evolved when zinc reacts with dilute sulphuric acid?",
+        "options": [
+            "Oxygen",
+            "Sulphur dioxide",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": "Hydrogen",
+        "explanation": "Zn + H2SO4 → ZnSO4 + H2. Active metals react with acids to displace hydrogen gas.",
+        "difficulty": "medium"
+    }
+]

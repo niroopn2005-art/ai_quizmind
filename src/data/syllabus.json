@@ -1,0 +1,100 @@
+{
+    "10th": {
+        "Physics": [
+            "Light - Reflection and Refraction",
+            "Human Eye",
+            "Electricity",
+            "Magnetic Effects of Electric Current"
+        ],
+        "Chemistry": [
+            "Chemical Reactions",
+            "Acids, Bases and Salts",
+            "Metals and Non-metals",
+            "Carbon and its Compounds",
+            "Periodic Classification"
+        ],
+        "Biology": [
+            "Life Processes",
+            "Control and Coordination",
+            "How do Organisms Reproduce",
+            "Heredity and Evolution",
+            "Our Environment"
+        ],
+        "Maths": [
+            "Real Numbers",
+            "Polynomials",
+            "Quadratic Equations",
+            "Triangles",
+            "Trigonometry"
+        ]
+    },
+    "11th": {
+        "Physics": [
+            "Physical World",
+            "Units and Measurements",
+            "Kinematics",
+            "Laws of Motion",
+            "Work, Energy and Power",
+            "Gravitation",
+            "Thermodynamics"
+        ],
+        "Chemistry": [
+            "Basic Concepts of Chemistry",
+            "Structure of Atom",
+            "Classification of Elements",
+            "Chemical Bonding",
+            "States of Matter",
+            "Thermodynamics"
+        ],
+        "Biology": [
+            "The Living World",
+            "Biological Classification",
+            "Plant Kingdom",
+            "Animal Kingdom",
+            "Morphology of Flowering Plants",
+            "Cell - The Unit of Life"
+        ],
+        "Maths": [
+            "Sets",
+            "Relations and Functions",
+            "Trigonometric Functions",
+            "Complex Numbers",
+            "Linear Inequalities",
+            "Permutations and Combinations"
+        ]
+    },
+    "12th": {
+        "Physics": [
+            "Electric Charges and Fields",
+            "Electrostatic Potential",
+            "Current Electricity",
+            "Moving Charges and Magnetism",
+            "Electromagnetic Waves",
+            "Wave Optics"
+        ],
+        "Chemistry": [
+            "Solid State",
+            "Solutions",
+            "Electrochemistry",
+            "Chemical Kinetics",
+            "Surface Chemistry",
+            "Coordination Compounds",
+            "Haloalkanes"
+        ],
+        "Biology": [
+            "Reproduction in Organisms",
+            "Human Reproduction",
+            "Genetics and Evolution",
+            "Biology in Human Welfare",
+            "Ecology and Environment"
+        ],
+        "Maths": [
+            "Relations and Functions",
+            "Inverse Trigonometric Functions",
+            "Matrices",
+            "Determinants",
+            "Calculus",
+            "Vectors and 3D Geometry"
+        ]
+    }
+}

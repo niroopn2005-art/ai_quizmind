@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is NOT a life process?",
+        "options": [
+            "Nutrition",
+            "Respiration",
+            "Locomotion",
+            "Reproduction"
+        ],
+        "answer": "Locomotion",
+        "explanation": "Life processes keep us alive. Locomotion (movement) is NOT considered a basic life process — all organisms don’t need to move to stay alive."
+    },
+    {
+        "id": 2,
+        "question": "The process by which food is taken in and used by an organism is called:",
+        "options": [
+            "Respiration",
+            "Nutrition",
+            "Excretion",
+            "Reproduction"
+        ],
+        "answer": "Nutrition",
+        "explanation": "Nutrition is the process of taking in food and using it for energy and growth. Think of it as everything your body does with food."
+    },
+    {
+        "id": 3,
+        "question": "Autotrophic nutrition is found in:",
+        "options": [
+            "Fungi",
+            "Bacteria",
+            "Green plants",
+            "Animals"
+        ],
+        "answer": "Green plants",
+        "explanation": "Green plants make their own food using sunlight — this is called autotrophic nutrition. ‘Auto’ means self, ‘troph’ means food."
+    },
+    {
+        "id": 4,
+        "question": "Which organelle is called the ‘kitchen of the cell’?",
+        "options": [
+            "Mitochondria",
+            "Ribosome",
+            "Chloroplast",
+            "Nucleus"
+        ],
+        "answer": "Chloroplast",
+        "explanation": "Chloroplasts make food (glucose) for the plant using sunlight, just like a kitchen prepares food. That’s why it’s called the kitchen of the cell."
+    },
+    {
+        "id": 5,
+        "question": "The equation for photosynthesis is:",
+        "options": [
+            "CO2 + H2O → Glucose + O2",
+            "O2 + Glucose → CO2 + H2O",
+            "CO2 + O2 → Glucose + H2O",
+            "H2O + O2 → Glucose + CO2"
+        ],
+        "answer": "CO2 + H2O → Glucose + O2",
+        "explanation": "Plants take in carbon dioxide (CO2) and water (H2O) and use sunlight to make glucose (food) and oxygen (O2). This is photosynthesis."
+    },
+    {
+        "id": 6,
+        "question": "Which gas is released during photosynthesis?",
+        "options": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": "Oxygen",
+        "explanation": "During photosynthesis, plants break water molecules and release oxygen gas. That’s why we need plants — they give us the oxygen we breathe!"
+    },
+    {
+        "id": 7,
+        "question": "The pigment responsible for photosynthesis is:",
+        "options": [
+            "Haemoglobin",
+            "Chlorophyll",
+            "Carotene",
+            "Anthocyanin"
+        ],
+        "answer": "Chlorophyll",
+        "explanation": "Chlorophyll is the green pigment in plant leaves. It captures sunlight energy and uses it to make food. It also gives leaves their green colour."
+    },
+    {
+        "id": 8,
+        "question": "Stomata in leaves help in:",
+        "options": [
+            "Absorption of water",
+            "Gas exchange",
+            "Food storage",
+            "Seed dispersal"
+        ],
+        "answer": "Gas exchange",
+        "explanation": "Stomata are tiny pores (holes) on leaves. They open and close to let CO2 in and O2 out — just like tiny windows for gas exchange."
+    },
+    {
+        "id": 9,
+        "question": "The guard cells control:",
+        "options": [
+            "Absorption of minerals",
+            "Opening and closing of stomata",
+            "Rate of photosynthesis",
+            "Transpiration rate"
+        ],
+        "answer": "Opening and closing of stomata",
+        "explanation": "Guard cells are like gatekeepers around stomata. When they swell with water, the stomata open. When they shrink, stomata close."
+    },
+    {
+        "id": 10,
+        "question": "Which part of the leaf is the main site of photosynthesis?",
+        "options": [
+            "Epidermis",
+            "Stomata",
+            "Mesophyll",
+            "Veins"
+        ],
+        "answer": "Mesophyll",
+        "explanation": "The mesophyll layer in the middle of the leaf is packed with chloroplasts — so it’s the main place where photosynthesis happens."
+    }
+]
